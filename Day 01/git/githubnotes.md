@@ -1,6 +1,6 @@
-git config --global user.name "Your Name"
+**git config --global user.name "Your Name"
 git config --global user.email "your.email@example.com"
-git config --global init.defaultBranch main
+git config --global init.defaultBranch main**
 
 
 git init                           # Initialize a new local Git repository
